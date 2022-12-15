@@ -1,3 +1,3 @@
 # Capstone-
 
-This is a coursera project
+This is a final project for IBM Data Analyst professional certificate
